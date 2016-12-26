@@ -1,0 +1,15 @@
+{
+  "name": "white43/yii2-fleep",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "php": "~5.5",
+    "ext-curl": "*",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "white43\\Fleep\\": "src/"
+    }
+  }
+}
