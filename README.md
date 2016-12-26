@@ -6,8 +6,8 @@
 
 ## Config
 
-1. Open config/web.php
-2. Make necessary changes
+* Open config/web.php of your Yii2 app
+* Make necessary changes
 
 ```
 $config = [
@@ -25,4 +25,4 @@ $config = [
 ];
 ```
 
-3. Profit!
+* Profit!
