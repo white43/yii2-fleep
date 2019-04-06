@@ -2,6 +2,7 @@
   "name": "white43/yii2-fleep",
   "minimum-stability": "stable",
   "license": "MIT",
+  "type": "yii2-extension",
   "require": {
     "php": "^5.5 || ^7.0",
     "ext-curl": "*",
