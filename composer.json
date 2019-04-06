@@ -3,7 +3,7 @@
   "minimum-stability": "stable",
   "license": "MIT",
   "require": {
-    "php": "~5.5",
+    "php": "^5.5 || ^7.0",
     "ext-curl": "*",
     "yiisoft/yii2": "*"
   },
